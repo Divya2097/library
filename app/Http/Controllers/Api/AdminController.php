@@ -157,7 +157,7 @@ class AdminController extends Controller {
 
                         } else {
                             $result['status'] =0;
-                            $result['message'] ="Email already exists";
+                            $result['message'] ="book already exists";
                         }
                     }
                 } else {
