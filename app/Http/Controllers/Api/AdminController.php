@@ -13,6 +13,7 @@ use App\User;
 
 use Validator;
 use Auth;
+use Excel;
 
 class AdminController extends Controller {
     
